@@ -4,7 +4,27 @@
         "text": "Hey there!"
     },
     {
-        "author": "Paul O’Shannessy",
+        "author": "Paul O\u2019Shannessy",
         "text": "React is *great*!"
+    },
+    {
+        "author": "hello",
+        "text": "there"
+    },
+    {
+        "author": "Set Kyar Wa Lar",
+        "text": "This is reactjs"
+    },
+    {
+        "author": "Wow",
+        "text": "React"
+    },
+    {
+        "author": "Fuck",
+        "text": "I did it"
+    },
+    {
+        "author": "Yes",
+        "text": "Got it now"
     }
 ]
